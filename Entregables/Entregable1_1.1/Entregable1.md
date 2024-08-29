@@ -24,107 +24,139 @@ La conversión de datos para su análisis.
 Análisis de artículos y búsqueda de información
 Se revisaron diversos artículos científicos para comprender mejor la predicción del Índice de Calidad del Aire y el comportamiento del contaminante PM10. La búsqueda de información se realizó utilizando herramientas como Google Académico, con palabras clave como "Índice de Calidad del Aire", "PM10" y "material particulado". Esta revisión bibliográfica fue crucial para contextualizar y validar los resultados obtenidos en el análisis.
 Resultados
+
 Tabla de base de datos
+
 Figura 1:
+
 <img width="866" alt="base de datos2022" src="https://github.com/user-attachments/assets/88b40710-0ac7-4a8a-961e-59c1275ffdfb">
 
 Matriz de funcionamiento
+
 Figura 2:
+
 <img width="560" alt="matriz 2022" src="https://github.com/user-attachments/assets/d5e0fd72-a572-4d6c-a5e6-a8712759693a">
 
-
 Valores de concentracion
+
 Figura 3:
+
 <img width="360" alt="valores concentracion 2022" src="https://github.com/user-attachments/assets/d423d5f0-cdf9-47e3-bd70-99492cd9c8ae">
+
 Figura 4:
+
 <img width="423" alt="daily 2022 1" src="https://github.com/user-attachments/assets/98ca99a3-9ee0-4c3b-aecd-a0bfe4b8d8f8">
 
-
 Concentracion maxima diaria pm10 
+
 Figura 5:
+
 <img width="158" alt="concentracion maxima diarai 2022" src="https://github.com/user-attachments/assets/540e01c1-64da-4f64-9ca4-f426a95c969e">
 
-
 Valor de AQI
+
 Figura 6:
+
 <img width="495" alt="valor diarai aqui 2022" src="https://github.com/user-attachments/assets/0db0f95c-3a29-45c6-8852-d6fa4baae253">
 
-
 Regresion lineal valor real vs predicho AQI
+
 Figura 7
+
 <img width="495" alt="valor diarai aqui 2022" src="https://github.com/user-attachments/assets/8088c792-336f-472a-81d8-c9832fc034d8">
 
-
 Histograma de residuos para verificar la normalidad
+
 Figura 8
+
 <img width="534" alt="histograma 2022" src="https://github.com/user-attachments/assets/6f3d0d02-d35f-445f-a5cb-429fdf987036">
 
-
 Visualizacion de valores residuales vs predichos
+
 Figura 9
+
 <img width="487" alt="valores residuales 2022" src="https://github.com/user-attachments/assets/4eec3e81-5291-4915-80ec-3288bcb7f933">
 
-
 Tabla de base de datos 2022
+
 Figura 10
+
 <img width="877" alt="tabla de base de datos 2022 2" src="https://github.com/user-attachments/assets/3929acee-183b-4b12-b56f-f4bbad2bcae0">
 
-
 Data2023:
+
 Base de datos
+
 Figura 11
+
 <img width="902" alt="base de datos 2023" src="https://github.com/user-attachments/assets/5efaa1dc-310b-4d97-91c0-6c6bd5598e4f">
 
 
 Matriz funcionamiento 
+
 figura 12
+
 <img width="503" alt="matriz" src="https://github.com/user-attachments/assets/ada53495-360b-4cb5-aba0-54bb8ff65a50">
 
-
 Concentracion pm10 vs AQI
+
 Figura 13
+
 <img width="429" alt="predicho" src="https://github.com/user-attachments/assets/1fe651e4-271c-43f3-b7b2-1a213de7ef46">
 
 
 Tabla de base de datos
+
 Figura 14
+
 <img width="891" alt="datos 2023 2" src="https://github.com/user-attachments/assets/32ca824b-1e80-48db-9524-124c51f433b5">
 
 
 Datos 2022 2023
+
 Tabla base de datos
+
 Figura 15:
+
 <img width="719" alt="base de datos" src="https://github.com/user-attachments/assets/cf6f0e87-c5b0-4135-a697-e56caf49c5a1">
 
-
 Matriz 
+
 Figura 16
+
 <img width="389" alt="matriz" src="https://github.com/user-attachments/assets/cf768780-5328-4b0b-8e9f-2b603f85af33">
 
-
 Grafica de concentracion maxima diaria
+
 Figura 17
+
 <img width="364" alt="g1" src="https://github.com/user-attachments/assets/e8eed8ca-8a9b-40c7-88da-f214346dc2c7">
 
-
 Grafica de densidad de concentracion maxima
+
 Figura 18
+
 <img width="299" alt="g2" src="https://github.com/user-attachments/assets/f2f1fa73-13ef-4697-9f97-b77cd3f5a4dc">
 
-
 Grafica de valor diario de AQI
+
 Figura 19
+
 <img width="363" alt="g3" src="https://github.com/user-attachments/assets/2954de24-edba-4e86-a362-17122152d517">
 
-
 Grafica de densidad AQI
+
 Figura 20
+
 <img width="299" alt="g4" src="https://github.com/user-attachments/assets/83389dec-79a4-4c28-a4a4-fb07c3de18ac">
 
 
 Regresion lineal demuestra como el PM 10 impacta en el indice de calidad de aire
+
 Figura 21
+
 <img width="250" alt="vs daily aqi" src="https://github.com/user-attachments/assets/488d6f10-c6d8-4fd0-b78c-d825f34d97dd">
+
 Discusion
 Después de realizar la predicción utilizando el método de regresión para analizar y explorar la relación entre la concentración de partículas PM10, que influye en el Índice de Calidad del Aire (AQI) en California, con los datos recopilados durante los años 2022 y 2023, se observó que la frecuencia de la concentración máxima diaria de PM10 en 24 horas versus el Índice de Calidad del Aire diario es crucial para entrenar el modelo y obtener resultados representativos. Utilizando el modelo de regresión, los datos se ajustaron para obtener predicciones más precisas del AQI, empleando métricas como el error absoluto medio, el error cuadrático medio y el puntaje R^2. Estos resultados destacan la relación entre la predicción y la concentración de PM10: a medida que aumenta la concentración de partículas, el Índice de Calidad del Aire también se eleva, lo que indica una peor calidad del aire.
 
