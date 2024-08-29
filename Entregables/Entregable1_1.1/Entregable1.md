@@ -1,5 +1,6 @@
-"Modelo de Predicción del Índice de Calidad del Aire:PM10"
-introduccion
+# Modelo de Predicción del Índice de Calidad del Aire: [PM10]
+
+## Introducción
 La predicción del índice de calidad del aire es esencial para proteger la salud pública y gestionar el medio ambiente, ya que permite comprender la presencia de contaminantes en la atmósfera, como partículas suspendidas y contaminantes químicos. Este informe se centra principalmente en los niveles de PM10 en California, conocido como el "estado dorado", ubicado en Estados Unidos, durante los años 2022 y 2023. California enfrenta desafíos ambientales como el cambio climático, los incendios forestales y la necesidad de gestionar la calidad del aire, dado el aumento en la frecuencia de incendios y las olas de calor en las últimas décadas.(1)
 
 Toda la información fue obtenida de la base de datos de la Agencia de Protección Ambiental de los Estados Unidos (EPA). Se trabajó con los datos de calidad del aire recopilados en monitores al aire libre a lo largo de Estados Unidos, en particular para el contaminante PM10 durante los años 2022 y 2023, con mediciones promedio durante 24 horas al día.
