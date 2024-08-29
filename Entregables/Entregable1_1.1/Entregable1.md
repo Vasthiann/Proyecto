@@ -1,11 +1,12 @@
-Modelo de Predicción del Índice de Calidad del Aire:PM10
+"Modelo de Predicción del Índice de Calidad del Aire:PM10"
 introduccion
-La predicción del índice de calidad del aire es esencial para proteger la salud pública y gestionar el medio ambiente, ya que permite comprender la presencia de contaminantes en la atmósfera, como partículas suspendidas y contaminantes químicos. Este informe se centra principalmente en los niveles de PM10 en California, conocido como el "estado dorado", ubicado en Estados Unidos, durante los años 2022 y 2023. California enfrenta desafíos ambientales como el cambio climático, los incendios forestales y la necesidad de gestionar la calidad del aire, dado el aumento en la frecuencia de incendios y las olas de calor en las últimas décadas.
+La predicción del índice de calidad del aire es esencial para proteger la salud pública y gestionar el medio ambiente, ya que permite comprender la presencia de contaminantes en la atmósfera, como partículas suspendidas y contaminantes químicos. Este informe se centra principalmente en los niveles de PM10 en California, conocido como el "estado dorado", ubicado en Estados Unidos, durante los años 2022 y 2023. California enfrenta desafíos ambientales como el cambio climático, los incendios forestales y la necesidad de gestionar la calidad del aire, dado el aumento en la frecuencia de incendios y las olas de calor en las últimas décadas.(1)
 
 Toda la información fue obtenida de la base de datos de la Agencia de Protección Ambiental de los Estados Unidos (EPA). Se trabajó con los datos de calidad del aire recopilados en monitores al aire libre a lo largo de Estados Unidos, en particular para el contaminante PM10 durante los años 2022 y 2023, con mediciones promedio durante 24 horas al día.
 
-Las partículas PM10 son una mezcla de partículas sólidas y líquidas de menos de 10 micrómetros de diámetro que se encuentran suspendidas en el aire. Provienen de fuentes como el tráfico vehicular, la construcción, la quema de combustibles fósiles y los incendios forestales. Debido a su tamaño, estas partículas pueden ser inhaladas y llegar hasta los pulmones, lo que representa un riesgo significativo para la salud respiratoria y cardiovascular, especialmente en personas vulnerables como niños, ancianos y personas con enfermedades pulmonares.
-California, por su geografía y clima, es particularmente susceptible a altos niveles de PM10, especialmente durante los incendios forestales que generan grandes cantidades de humo y partículas en suspensión. Los niveles de PM10 en 2022 y 2023 reflejan la importancia de implementar políticas de mitigación y prevención para reducir la exposición a este contaminante, ya que la exposición prolongada puede provocar problemas de salud graves y contribuir al deterioro ambiental.
+Las partículas PM10 son una mezcla de partículas sólidas y líquidas de menos de 10 micrómetros de diámetro que se encuentran suspendidas en el aire. Provienen de fuentes como el tráfico vehicular, la construcción, la quema de combustibles fósiles y los incendios forestales. Debido a su tamaño, estas partículas pueden ser inhaladas y llegar hasta los pulmones, lo que representa un riesgo significativo para la salud respiratoria y cardiovascular, especialmente en personas vulnerables como niños, ancianos y personas con enfermedades pulmonares.(3_
+California, por su geografía y clima, es particularmente susceptible a altos niveles de PM10, especialmente durante los incendios forestales que generan grandes cantidades de humo y partículas en suspensión. Los niveles de PM10 en 2022 y 2023 reflejan la importancia de implementar políticas de mitigación y prevención para reducir la exposición a este contaminante, ya que la exposición prolongada puede provocar problemas de salud graves y contribuir al deterioro ambiental.(1)
+
 Metodología
 
 Visualización de datos
@@ -23,6 +24,7 @@ El entrenamiento del modelo.
 La conversión de datos para su análisis.
 Análisis de artículos y búsqueda de información
 Se revisaron diversos artículos científicos para comprender mejor la predicción del Índice de Calidad del Aire y el comportamiento del contaminante PM10. La búsqueda de información se realizó utilizando herramientas como Google Académico, con palabras clave como "Índice de Calidad del Aire", "PM10" y "material particulado". Esta revisión bibliográfica fue crucial para contextualizar y validar los resultados obtenidos en el análisis.
+
 Resultados
 
 Tabla de base de datos
@@ -162,5 +164,12 @@ Después de realizar la predicción utilizando el método de regresión para ana
 
 Con estos datos, se puede predecir con mayor precisión el AQI de California, lo que contribuye a la salud pública y facilita la toma de decisiones para reducir la concentración de partículas PM10 en la atmósfera. Esto puede lograrse implementando medidas como el control de emisiones industriales, la reducción de quema de combustibles fósiles, y la gestión de incendios forestales, entre otras estrategias para mejorar la calidad del aire
 
+Bibliografia
+
+1.Evaluación del PM10 en California - Bing. (s. f.). Bing. https://www.bing.com/search?q=+Evaluaci%C3%B3n+del+PM10+en+California&qs=n&form=QBRE&sp=-1&lq=1&pq=&sc=24-0&sk=&cvid=52451830C3D84D75AE6B207D684284AB&ghsh=0&ghacc=0&ghpl=
+
+2.Quincho, J. P. R., & Dionicio, E. A. M. (2022). PRONÓSTICO DE LAS CONCENTRACIONES DE MATERIAL PARTICULADO EN EL AIRE (PM10) UTILIZANDO REDES NEURONALES ARTIFICIALES: CASO ESTUDIO EN EL DISTRITO DE ATE, LIMA. Revista de la Sociedad Química del Perú, 88(3). https://doi.org/10.37761/rsqp.v88i3.402
+
+3.Meza, L. M., Quintero, M., García, R., & Ramírez, J. (2010). Estimación de Factores de Emisión de PM10 y PM2.5, en Vías Urbanas en Mexicali, Baja California, México. InformacióN TecnolóGica, 21(4). https://doi.org/10.4067/s0718-07642010000400007
 
 
