@@ -26,7 +26,7 @@ La conversión de datos para su análisis.
 Análisis de artículos y búsqueda de información
 Se revisaron diversos artículos científicos para comprender mejor la predicción del Índice de Calidad del Aire y el comportamiento del contaminante PM10. La búsqueda de información se realizó utilizando herramientas como Google Académico, con palabras clave como "Índice de Calidad del Aire", "PM10" y "material particulado". Esta revisión bibliográfica fue crucial para contextualizar y validar los resultados obtenidos en el análisis.
 
-##Resultados
+## Resultados
 
 Tabla de base de datos
 
@@ -160,13 +160,13 @@ Figura 21
 
 <img width="250" alt="vs daily aqi" src="https://github.com/user-attachments/assets/488d6f10-c6d8-4fd0-b78c-d825f34d97dd">
 
-##Discusion
+## Discusion
 
 Después de realizar la predicción utilizando el método de regresión para analizar y explorar la relación entre la concentración de partículas PM10, que influye en el Índice de Calidad del Aire (AQI) en California, con los datos recopilados durante los años 2022 y 2023, se observó que la frecuencia de la concentración máxima diaria de PM10 en 24 horas versus el Índice de Calidad del Aire diario es crucial para entrenar el modelo y obtener resultados representativos. Utilizando el modelo de regresión, los datos se ajustaron para obtener predicciones más precisas del AQI, empleando métricas como el error absoluto medio, el error cuadrático medio y el puntaje R^2. Estos resultados destacan la relación entre la predicción y la concentración de PM10: a medida que aumenta la concentración de partículas, el Índice de Calidad del Aire también se eleva, lo que indica una peor calidad del aire.
 
 Con estos datos, se puede predecir con mayor precisión el AQI de California, lo que contribuye a la salud pública y facilita la toma de decisiones para reducir la concentración de partículas PM10 en la atmósfera. Esto puede lograrse implementando medidas como el control de emisiones industriales, la reducción de quema de combustibles fósiles, y la gestión de incendios forestales, entre otras estrategias para mejorar la calidad del aire
 
-##Bibliografia
+## Bibliografia
 
 1.Evaluación del PM10 en California - Bing. (s. f.). Bing. https://www.bing.com/search?q=+Evaluaci%C3%B3n+del+PM10+en+California&qs=n&form=QBRE&sp=-1&lq=1&pq=&sc=24-0&sk=&cvid=52451830C3D84D75AE6B207D684284AB&ghsh=0&ghacc=0&ghpl=
 
